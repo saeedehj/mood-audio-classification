@@ -1,0 +1,6 @@
+pip install streamlit
+pip install numpy scipy
+pip install resampy tensorflow
+pip install tf_slim
+pip install soundfile
+pip install pydub
