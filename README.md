@@ -33,3 +33,6 @@ python evaluate.py
 
 streamlit run api.py
 ```
+
+###
+**Keywords**: Music emotion recognition, Multi-label classification, Transformer, MTG-Jamendo dataset
